@@ -2,7 +2,7 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "Mic 2" ] },
+    "label": { "en": [ "Mic 2 Annotations" ] },
     "items": [
       {
         "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/canvas-1/canvas",
