@@ -17,6 +17,14 @@
               "none": ["Friction sounds"]
             }
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://sarah-freeman.github.io/operator-annotations/annotations/mic-2-canvas-1-silence.json",
+            "label": {
+              "none": ["Silence"]
+            }
+          }
         ],
         "items": [
           {
