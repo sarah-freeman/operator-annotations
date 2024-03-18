@@ -8,6 +8,16 @@
         "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/canvas-1/canvas",
         "type": "Canvas",
         "duration": 390.918,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://sarah-freeman.github.io/operator-annotations/annotations/mic-2-canvas-1-friction-sounds.json",
+            "label": {
+              "none": ["Friction sounds"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/canvas-1/paintings",
