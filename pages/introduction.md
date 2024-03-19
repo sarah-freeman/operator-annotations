@@ -164,15 +164,15 @@ In this section, I discuss how my timestamps of highly-variable length, and my r
 <p>Ultimately, these annotations aren't an end in and of themselves. I mean this in two senses: first, with reference to the audiotextual and mediation features—and lenses for looking at these features—that I didn't include in this project. This is sometimes due to the limits of my own knowldge, for instance, in my limited discussion of audio compression. It's also due, in part, to the audiotexts; someone working with a monovocal performance would necessarily have different considerations, which would likely lead to different critical parameters in their project. But, it's also due to this being a largely exploratory project. More developed works would likely more clearly articulate a specific critical lens, which I didn't do here.
 	In the second sense, these annotations don't exhaust the possibilities of annotating "Operator" audiotexts themselves. Because my annotations are specific to my own listening experience (and critical limitations), they shouldn't serve as a stabilizing document but instead one of interpretation, which may be countered, built upon, repurposed or used critically in another way. </p>
 
-<p><i>Works Cited</i>
-“Audiated Annotation from the Middle Ages to the Open Web.” DHQ: Digital Humanities Quarterly, 2021, www.digitalhumanities.org/dhq/vol/15/1/000512/000512.html. 
+<p><i>Works Cited</i></p>
+<p>“Audiated Annotation from the Middle Ages to the Open Web.” <i>DHQ: Digital Humanities Quarterly</i>, 2021, www.digitalhumanities.org/dhq/vol/15/1/000512/000512.html.</p>
 	
-Bernstein, Charles. “Introduction.” Close Listening: Poetry and the Performed Word, Oxford University Press, New York, NY, 1998, pp. 3–26. 
+<p>Bernstein, Charles. “Introduction.” <i>Close Listening: Poetry and the Performed Word</i>, Oxford University Press, New York, NY, 1998, pp. 3–26.</p>
 
-Camlot, Jason, and Christine Mitchell. “Amodern 4: The Poetry Series.” Amodern, vol. 4, Mar. 2015, https://doi.org/https://amodern.net/issues/amodern-4/. 
+<p>Camlot, Jason, and Christine Mitchell. “Amodern 4: The Poetry Series.” <i>Amodern</i>, vol. 4, Mar. 2015, https://doi.org/https://amodern.net/issues/amodern-4/.</p>
 
-Chion, Michel. “The Three Listening Modes.” Audio-Vision: Sound on Screen, translated by Claudia Gorbman, Second ed., Columbia University Press, New York, NY, 2019, pp. 22–34. 
+<p>Chion, Michel. “The Three Listening Modes.” <i>Audio-Vision: Sound on Screen</i>, translated by Claudia Gorbman, Second ed., Columbia University Press, New York, NY, 2019, pp. 22–34.</p>
 
-Sterne, Jonathan. “Hearing.” Keywords in Sound, Duke University Press, 2015, pp. 65–77. 
+<p>Sterne, Jonathan. “Hearing.” <i>Keywords in Sound</i>, Duke University Press, 2015, pp. 65–77.</p>
 
-Unsworth, John. “Scholarly Primitives: What Methods Do Humanities Researchers Have in Common, and How Might Our Tools Reflect This?” John M. Unsworth: Conference Papers and Presentations, University of Virginia, 13 May 2000, people.brandeis.edu/~unsworth/Kings.5-00/primitives.html. </p>
+<p>Unsworth, John. “Scholarly Primitives: What Methods Do Humanities Researchers Have in Common, and How Might Our Tools Reflect This?” <i>John M. Unsworth: Conference Papers and Presentations</i>, University of Virginia, 13 May 2000, people.brandeis.edu/~unsworth/Kings.5-00/primitives.html. </p>
