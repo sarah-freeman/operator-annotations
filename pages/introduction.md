@@ -164,7 +164,7 @@ In this section, I discuss how my timestamps of highly-variable length, and my r
 <p>Ultimately, these annotations aren't an end in and of themselves. I mean this in two senses: first, with reference to the audiotextual and mediation features—and lenses for looking at these features—that I didn't include in this project. This is sometimes due to the limits of my own knowldge, for instance, in my limited discussion of audio compression. It's also due, in part, to the audiotexts; someone working with a monovocal performance would necessarily have different considerations, which would likely lead to different critical parameters in their project. But, it's also due to this being a largely exploratory project. More developed works would likely more clearly articulate a specific critical lens, which I didn't do here.
 	In the second sense, these annotations don't exhaust the possibilities of annotating "Operator" audiotexts themselves. Because my annotations are specific to my own listening experience (and critical limitations), they shouldn't serve as a stabilizing document but instead one of interpretation, which may be countered, built upon, repurposed or used critically in another way. </p>
 
-<p><i>Works Cited</i></p>
+## Works Cited
 <p>“Audiated Annotation from the Middle Ages to the Open Web.” <i>DHQ: Digital Humanities Quarterly</i>, 2021, www.digitalhumanities.org/dhq/vol/15/1/000512/000512.html.</p>
 	
 <p>Bernstein, Charles. “Introduction.” <i>Close Listening: Poetry and the Performed Word</i>, Oxford University Press, New York, NY, 1998, pp. 3–26.</p>
