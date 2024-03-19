@@ -17,3 +17,26 @@ using HTML or markdown.  Do not modify this file above this line -->
 <p><i>
 Layered timestamps and indexes
 </i></p>
+<p>At any one moment in any of the audiotexts, there are multiple layers of sound. These range from an electronic bass tone to voices to static distortion. They become audible and inaudible at different times, change at varying intervals—in these ways, they exist in time independently from each other. For this reason, I’ve timestamped them independently. This creates a non-chronological temporality in my timestamps, in that a sound cannot be said to have completely occurred before the next sound, only to have begun before the next. Consider, for instance, this section from Mic 1:</p>
+<table>
+  <tr>
+    <th>Start time</th>
+    <th>End time</th> 
+    <th>Annotation</th>
+  </tr>
+  <tr>
+    <td>0:01:40.63</td>
+    <td>0:02:92.26</td> 
+    <td>Sporadic mid-volume rolling sound, like a pool ball rolling across a table</td>
+  </tr>
+  <tr>
+    <td>0:01:54.0</td>
+    <td>0:01:54.4</td> 
+    <td>Quiet breathy/blowing sound</td>
+  </tr>
+  <tr>
+    <td>0:01:59.193</td>
+    <td>0:01:59.59</td> 
+    <td>Loud tap, like two pool balls colliding</td>
+  </tr>
+</table>
