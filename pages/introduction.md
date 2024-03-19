@@ -156,3 +156,23 @@ In this section, I discuss how my timestamps of highly-variable length, and my r
 
 <p><i>Variable significant figures in timestamps</i></p>
 <p>I’ve indicated my relative level of certainty about the timestamps by varying my significant figures in each timestamp. These are both a gesture to the complexities of the sounds in these audiotexts, which may cut off in an instance or fade away over time, with little indication of the discrete endpoint implied by an exact timestamp. By varying the relative precision of my timestamps, I implicate both the technological affordances of Audacity (which facilitates precision up to three decimal points) and the role of my own judgment in determining when a sound can be said to start and end.</p>
+
+## Conclusion
+
+<p>In this introduction, I explored how the central axioms of an audio annotation process can be determined not by usage conventions, but instead reflexive to the audiotext and its mediation. This led to distinctions in how I used layering, semiotic descriptors, and relative language to reproduce varying levels of polyphony, semiotic features, and openness to unauthorized sound, to annotate each of the “Operator” audiotexts. It also led to annotations that are evidently situated in my own listening practice, a somewhat imprecise use of a digital audio technology that purports to be very precise. This I model through varying precision in my timestamps, and non-technical language.</p>
+
+<p>Ultimately, these annotations aren't an end in and of themselves. I mean this in two senses: first, with reference to the audiotextual and mediation features—and lenses for looking at these features—that I didn't include in this project. This is sometimes due to the limits of my own knowldge, for instance, in my limited discussion of audio compression. It's also due, in part, to the audiotexts; someone working with a monovocal performance would necessarily have different considerations, which would likely lead to different critical parameters in their project. But, it's also due to this being a largely exploratory project. More developed works would likely more clearly articulate a specific critical lens, which I didn't do here.
+	In the second sense, these annotations don't exhaust the possibilities of annotating "Operator" audiotexts themselves. Because my annotations are specific to my own listening experience (and critical limitations), they shouldn't serve as a stabilizing document but instead one of interpretation, which may be countered, built upon, repurposed or used critically in another way. </p>
+
+<p><i>Works Cited</i>
+“Audiated Annotation from the Middle Ages to the Open Web.” DHQ: Digital Humanities Quarterly, 2021, www.digitalhumanities.org/dhq/vol/15/1/000512/000512.html. 
+	
+Bernstein, Charles. “Introduction.” Close Listening: Poetry and the Performed Word, Oxford University Press, New York, NY, 1998, pp. 3–26. 
+
+Camlot, Jason, and Christine Mitchell. “Amodern 4: The Poetry Series.” Amodern, vol. 4, Mar. 2015, https://doi.org/https://amodern.net/issues/amodern-4/. 
+
+Chion, Michel. “The Three Listening Modes.” Audio-Vision: Sound on Screen, translated by Claudia Gorbman, Second ed., Columbia University Press, New York, NY, 2019, pp. 22–34. 
+
+Sterne, Jonathan. “Hearing.” Keywords in Sound, Duke University Press, 2015, pp. 65–77. 
+
+Unsworth, John. “Scholarly Primitives: What Methods Do Humanities Researchers Have in Common, and How Might Our Tools Reflect This?” John M. Unsworth: Conference Papers and Presentations, University of Virginia, 13 May 2000, people.brandeis.edu/~unsworth/Kings.5-00/primitives.html. </p>
