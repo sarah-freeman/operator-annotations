@@ -96,5 +96,5 @@ Of course, the semiotic elements of a voiced performance are not predicated on a
 	Relative language is also reflective of the process I used to determine elements like pitch and volume. Using Audacity, I created waveforms and spectrograms for each audiotext. This is a multi-view of the waveform (top) and spectrogram (bottom) for each of the channels in the Mic 3 recording:
 </p>
 
-<img width="908" alt="Screenshot 2024-03-18 at 7 06 45 PM" src="https://github.com/sarah-freeman/operator-annotations/assets/142846974/3fb9dfbc-b8bf-4a36-b0d6-0ce90f269a9d">
+<img width="908" alt="Screenshot of Audacity interface, including waveform and spectogram correcponding to Mic 3." src="https://github.com/sarah-freeman/operator-annotations/assets/142846974/3fb9dfbc-b8bf-4a36-b0d6-0ce90f269a9d">
 
