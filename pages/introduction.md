@@ -45,22 +45,27 @@ Mic 2 is also polyphonic, but it has clearer audio quality and consequently clea
 </p>
 <table>
   <tr>
-    <th>0:01:35.78</th>
-    <th>0:02:03.32</th> 
-    <th>Gravelley, crunching sound beginning with a period of ~0.5 second. Low to mid pitch and volume. Period becomes longer and volume decreases through this interval.</th>
-    <th>Friction sounds</th>
+    <th>Start time</th>
+    <th>End time</th> 
+    <th>Annotation</th>
   </tr>
   <tr>
-    <th>0:01:40.66</th>
-    <th>0:02:02.04</th> 
-    <th>Clear scratch sound with varying pitch and generally low volume, like a wooden stick tracing across a wooden table.</th>
-    <th>Friction sounds</th>
+    <td>0:01:35.78</td>
+    <td>0:02:03.32</td> 
+    <td>Gravelley, crunching sound beginning with a period of ~0.5 second. Low to mid pitch and volume. Period becomes longer and volume decreases through this interval.</td>
+    <td>Friction sounds</td>
   </tr>
   <tr>
-    <th>0:02:10.01</th>
-    <th>0:02:11:71</th> 
-    <th>Polyphonic electronic tone crescendos to high volume</th>
-    <th>Electronic tones and distortions</th>
+    <td>0:01:40.66</td>
+    <td>0:02:02.04</td> 
+    <td>Clear scratch sound with varying pitch and generally low volume, like a wooden stick tracing across a wooden table.</td>
+    <td>Friction sounds</td>
+  </tr>
+  <tr>
+    <td>0:02:10.01</td>
+    <td>0:02:11:71</td> 
+    <td>Polyphonic electronic tone crescendos to high volume</td>
+    <td>Electronic tones and distortions</td>
   </tr>
 </table>
 <p>By attending to the polyphonic nature of each of these audiotexts, and the distinct manner in which sounds stratify, blend, and remediate each other in these audiotexts, I reflect the variances in sonic layering in each.</p>
@@ -72,9 +77,14 @@ Because Mic 1 has the clearest speech, it has more descriptors of symbolic featu
 </p>
 <table>
   <tr>
-    <th>0:03:12.83</th>
-    <th>0:03:43.5</th> 
-    <th>One mid pitch voice speaking. Little intonation (i.e. most syllables are stressed), resulting in choppy-sounding words (e.g. ve-hi-cules). Shout pauses between words. Call-and-response form (e.g. "...right? Yeah, that's what it looks like to me.") suggests two speakers, but there's only one voice. Terms that presumably refer to descriptive rather than spoken text (e.g. "unintelligible," "explicative") included within flow of speech, uttered by same speaker.</th>
+    <th>Start time</th>
+    <th>End time</th> 
+    <th>Annotation</th>
+  </tr>
+  <tr>
+    <td>0:03:12.83</td>
+    <td>0:03:43.5</td> 
+    <td>One mid pitch voice speaking. Little intonation (i.e. most syllables are stressed), resulting in choppy-sounding words (e.g. ve-hi-cules). Shout pauses between words. Call-and-response form (e.g. "...right? Yeah, that's what it looks like to me.") suggests two speakers, but there's only one voice. Terms that presumably refer to descriptive rather than spoken text (e.g. "unintelligible," "explicative") included within flow of speech, uttered by same speaker.</td>
   </tr>
 </table>
 <p>Here, I discuss a symbolic “call and response form” which is contradicted by semiotic features denoting a single voice. Additionally, I isolate words which I assume to “refer to descriptive rather than spoken text,” implicitly referring to their disruption of the syntactic structures of the speech, and to the forms of audio transcription which typically use descriptors like [unintelligible]. In this case, including these descriptions highlights how the audiotext draws attention to the blurry line between the semiotic and the semantic: does “unintelligible” function the same way as other symbolic words in this context, or is it closer to an index? When questions like this arise from the audiotext, they are obscured by a sole focus on semiotic features of speech. I alter my descriptions, when needed, to fit these complexities of the audiotext. 
