@@ -98,3 +98,61 @@ Of course, the semiotic elements of a voiced performance are not predicated on a
 
 <img width="908" alt="Screenshot of Audacity interface, including waveform and spectogram correcponding to Mic 3." src="https://github.com/sarah-freeman/operator-annotations/assets/142846974/3fb9dfbc-b8bf-4a36-b0d6-0ce90f269a9d">
 
+<p>I based my descriptions on my perception of the audio and, secondarily, what was represented in the images. If I describe a sound as high volume, for instance, it’s because it sounded loud relative to the surrounding sounds, but also because there was likely a peak on the waveform at that point. When I struggled to discern features of the sound, I relied more heavily on the waveform and spectrogram. I don’t use numerical units like decibels—although they are measured by Audacity—because those units aren’t reflective of the way in which I used the technology, which wasn’t to isolate “absolute” features of the sound at a given moment in time, but to compare the sound across time.</p>
+<p>Furthermore, using precise units presumes precision that I didn’t have in my listening experience; for instance, I used Bluetooth headphones, which likely compressed the sound as I heard it, so what I saw on Audacity—even by the numbers—is not necessarily representative of what I heard.
+One benefit of these descriptors is that I can use the same terms to describe a variety of sounds; unlike technical vocabularies, they are general enough to be flexible. Another is that, because they’re relative, making sense of any given annotation requires engagement with the surrounding annotations and perhaps also the audiotext itself. For instance, a high volume sound in the Mic 2 recording is louder than the Mic 1 recording, because the Mic 2 recording is generally louder. This both centers polyphony and de-centers meaning from any single location, written or sounded. This, I would argue, is a descriptive practice which, while lacking in rigor and not suited for all purposes, is consistent with the polyphony, fluidity, and openness of the audiotexts themselves.</p>
+
+## Mediation
+
+<p> In the above discussion, I’ve moved from discussing characteristics of the audiotexts to the characteristics of my technologically mediated listening practice. My listening and my annotations are informed by my use of Audacity, an audio editing software, to navigate the recordings. Audio technologies, and Jonathan Sterne notes, are not value-neutral; rather, the quantification of sound and the representation of the listening subject “through ensembles of hearing equipment” led to the construction of “noise” as social and cultural issue (70). It’s this type of technology that makes it easy to see, with a glance at a spectrogram, that Mic 3 is far noisier than Mic 2, and to forget that this is just one ideologically and socially-situated way of viewing a visual representation of sound.
+In this section, I discuss how my timestamps of highly-variable length, and my reference to a common time axis for all the recordings are specific to the technological mediations of my listening experience. </p>
+
+<p><i>Excerpting</i></p>
+
+<p>My annotations span an excerpt of 00:06:35 from the full performance, which included several performers and lasted roughly an hour and a half. Oana’s original performance was about 16 minutes; the excerpted portion represents the end of her performance (it cuts off right before the closing applause). I chose this portion because it is generally representative of the varieties of voices and sounds present throughout the performance. It is long enough to give a sense of the performance, and short enough to allow me to provide detailed annotations.</p>
+
+<p>My use of this excerpt, and the ways in which I approach it, are significant to the situation of each of the audiotexts in relation to each other and in relation to the annotations. My excerpted section occurs at different start and end points in each of the full-length audiotexts, owing to varying start times. Rather than reflect these times in my timestamps, I timestamp based on the excerpted duration, from 0:00:00 to 00:06:35, for all three audiotexts. This choice is significant because it reflects the remediation of the audio object in this context and facilitates comparison between the audiotexts.</p>
+
+<p>To begin timestamping at 0:00:00 is to acknowledge a temporality (and set of temporal contingencies) that is distinct to the excerpted audiotexts and the context in which I place them. In the first instance, this is distinct from the temporality of the live performance, which Friedrich Kittler calls “real time,” and cannot be represented as a duration. To represent a time period as a duration entails a set of technologically mediated, time-based practices like pausing, clipping, and rewinding, which Kittler refers to as “time axis manipulation.” Both the original audio clips and my excerpted versions engender not only the possibility of, but the active use of time axis manipulation. The presence of an original and an excerpt implies the use of some technological means of cutting and then saving an excerpted form, which by this process of time axis manipulation is not merely a derivative of the original but a new audio object in its own right. Thus the excerpt is both predicated on and subject to time axis manipulation in this project. </p>
+
+<p>Having a standard duration across all three audiotexts also facilitates comparison between them at a specific point in time. Somewhat paradoxically, ease of comparison is advantageous in highlighting the singularity of each of these audiotexts, because it makes clear the abundant differences between the annotations at a given time across all audiotexts. It’s also true that having a standard time axis across all three audiotexts obscures the different durations between the original recordings, and seems to gesture to the “real time” of the live performance (without preserving it). Because the excerpted audiotexts implicate the common situation of the live performance and facilitate comparison of their differences, this provokes consideration of the various audiotextual and mediation elements that may lead to their differences.</p>
+
+<p><i>Variable-length timestamps</i></p>
+
+<p>To the extent that my annotations are also a visual (i.e. written text) interpretation of sound, I’ve used Audacity to preserve what may now be called “visual noise.” All of these audiotexts are noisy, in the sense that they perpetuate uncontrolled, unauthorized, and (in the case of Mic 1 and Mic 3) spatially resonant sound. Sometimes, I group these sounds together in a single annotation, as in the following from Mic 3:</p>
+
+<table>
+  <tr>
+    <th>Start time</th>
+    <th>End time</th> 
+    <th>Annotation</th>
+  </tr>
+  <tr>
+    <td>0:02:50.64</td>
+    <td>0:032:59.2</td> 
+    <td>Mid pitch, mid volume fluctuating static tone, with various low volume mid pitch cracking sounds at inconsistent intervals</td>
+  </tr>
+</table>
+
+<p>Other times, I timestamp them individually, as in this annotation from Mic 1:</p>
+
+<table>
+  <tr>
+    <th>Start time</th>
+    <th>End time</th> 
+    <th>Annotation</th>
+  </tr>
+  <tr>
+    <td>0:01:01.598</td>
+    <td>0:01:01.8</td> 
+    <td>Pop with hard onset and soft offset</td>
+  </tr>
+</table>
+
+<p>A timestamp under one second is a bit ridiculous in terms of what’s useful or typical, but it’s helpful in making evident my use of Audacity, and in its atypicality also indicating the subjectivity of using audio technology to gain precise access to “noisy” signals, like underlying static (as in the first example) and acute pops (as in the second), often to get rid of them. 
+</p>
+
+<p>Somewhat unexpectedly, there are more “visual noise” timestamps in my Mic 1 annotations than either of the other annotations, although in visual representations, it appears to have less noise than Mic 3. This is because the noise was more consistent in terms of both presence and sonic characteristics in the Mic 3 audio, and therefore I could use longer timestamps for these annotations. In Mic 1, however, it was mostly short pops and cracks which weren’t consistent with the surrounding sounds, and for that reason I annotated them separately. Mic 2 has a mix of both.</p>
+
+<p><i>Variable significant figures in timestamps</i></p>
+<p>I’ve indicated my relative level of certainty about the timestamps by varying my significant figures in each timestamp. These are both a gesture to the complexities of the sounds in these audiotexts, which may cut off in an instance or fade away over time, with little indication of the discrete endpoint implied by an exact timestamp. By varying the relative precision of my timestamps, I implicate both the technological affordances of Audacity (which facilitates precision up to three decimal points) and the role of my own judgment in determining when a sound can be said to start and end.</p>
