@@ -8,6 +8,16 @@
         "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
         "type": "Canvas",
         "duration": 390.918,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://sarah-freeman.github.io/operator-annotations/annotations/mic-3-canvas-1-mic-3.json",
+            "label": {
+              "none": ["Mic 3"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/paintings",
