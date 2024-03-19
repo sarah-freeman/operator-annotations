@@ -40,3 +40,43 @@ Layered timestamps and indexes
     <td>Loud tap, like two pool balls colliding</td>
   </tr>
 </table>
+<p>One moment in time, such as 0:01:50, corresponds to multiple indices and thus has multiple layers, none of which—in the Mic 1 audiotext—are subordinate to each other even when they are infrequent/sporadic (as in the first entry above), quiet (as in the second) or short (as in the third). Mic 3 has similar interactions between layers of sounds, although they blend together a bit more, leading to more annotations that group sounds together.
+Mic 2 is also polyphonic, but it has clearer audio quality and consequently clearly defined layers of sound. Because the layers of sound are more distinct, I am able to identify layers not just based on time (i.e. through simultaneous timestamps) but also by shared sonic characteristics between sounds at different points in the audiotext. These shared qualities inform my use of indexes to denote four general categories of sound: speaking voices, silence, electronic tones and distortions, and friction sounds. The latter two are represented in this sample:
+</p>
+<table>
+  <tr>
+    <th>0:01:35.78</th>
+    <th>0:02:03.32</th> 
+    <th>Gravelley, crunching sound beginning with a period of ~0.5 second. Low to mid pitch and volume. Period becomes longer and volume decreases through this interval.</th>
+    <th>Friction sounds</th>
+  </tr>
+  <tr>
+    <th>0:01:40.66</th>
+    <th>0:02:02.04</th> 
+    <th>Clear scratch sound with varying pitch and generally low volume, like a wooden stick tracing across a wooden table.</th>
+    <th>Friction sounds</th>
+  </tr>
+  <tr>
+    <th>0:02:10.01</th>
+    <th>0:02:11:71</th> 
+    <th>Polyphonic electronic tone crescendos to high volume</th>
+    <th>Electronic tones and distortions</th>
+  </tr>
+</table>
+<p>By attending to the polyphonic nature of each of these audiotexts, and the distinct manner in which sounds stratify, blend, and remediate each other in these audiotexts, I reflect the variances in sonic layering in each.</p>
+
+<p><i>Focus on semiotic features</i></p>
+<p>	In each of the audiotexts, the majority of the sounds are not symbolic speech. And, when spoken language is audible, it’s complicated by semiotic features, whether from other layers of sound or striking voice modulation. For this reason, my annotation focuses on semiotic features of sound. This is most evident in my descriptions of speech, which use terms of volume, pitch, onset/offset, tone, and (occasionally) echo. Here I draw on Charles Bernstein’s description of a “poetic mode of listening,” in which there is “an oscillation (or temporal overlap) between the materially present sound…and the absent meaning” (18). It’s for this reason, also, that I rarely use spacial descriptors (i.e. background, foreground) and I don’t often attribute sounds to specific sources. This practice is informed, in part, by Michel Chion’s reduced listening, which centers around “inherent qualities of sounds,” (29) and which Chion places at odds with causal listening (i.e. listening for information about the source) and semantic listening (i.e. listening for linguistic meaning). 
+	While Chion distinguishes between these as three separate forms of listening, my annotations are closer to, in Bernstein’s description, “oscillati[ng]” between them. This is true in the sense that none of my descriptors are directly indicative of innate features of sound, but instead the necessity of essentializing certain features of it, using constructed ways of describing sound (e.g. volume and pitch), in order to be able to write about it. It’s also true in the sense that there are causal and semantic descriptions mixed into my semiotic descriptions. In annotations for each audiotext, I use timbre descriptors like “electronic,” “brassy,” “ and “crunching,” which imply causes even if they don’t state them outright. When I use more specific images, I make them similes, as in “mid-pitch clicking sound, like ball bearings colliding” (Mic 2). 
+Because Mic 1 has the clearest speech, it has more descriptors of symbolic features of speech, as in the following example:
+</p>
+<table>
+  <tr>
+    <th>0:03:12.83</th>
+    <th>0:03:43.5</th> 
+    <th>One mid pitch voice speaking. Little intonation (i.e. most syllables are stressed), resulting in choppy-sounding words (e.g. ve-hi-cules). Shout pauses between words. Call-and-response form (e.g. "...right? Yeah, that's what it looks like to me.") suggests two speakers, but there's only one voice. Terms that presumably refer to descriptive rather than spoken text (e.g. "unintelligible," "explicative") included within flow of speech, uttered by same speaker.</th>
+  </tr>
+</table>
+<p>Here, I discuss a symbolic “call and response form” which is contradicted by semiotic features denoting a single voice. Additionally, I isolate words which I assume to “refer to descriptive rather than spoken text,” implicitly referring to their disruption of the syntactic structures of the speech, and to the forms of audio transcription which typically use descriptors like [unintelligible]. In this case, including these descriptions highlights how the audiotext draws attention to the blurry line between the semiotic and the semantic: does “unintelligible” function the same way as other symbolic words in this context, or is it closer to an index? When questions like this arise from the audiotext, they are obscured by a sole focus on semiotic features of speech. I alter my descriptions, when needed, to fit these complexities of the audiotext. 
+Bernstein’s discussion of “absent meaning” is particularly relevant to the Mic 3 audiotext, in which spoken words are frequently inaudible (in the sense that they can’t be made out as symbolic words). To seek the symbolic in these sounds really does feel like reaching for something that’s not present among a plethora of “materially present sound[s],” more than are in either of the other audiotexts. For this reason, I’ve foregone the descriptor “Oana’s voice” in my annotations of this audiotext, not because her voice is unrecognizable, but because this descriptor is causative (i.e. sound is attributed to voice, which is ultimately attributed to a causative speaker) and privileges the voice relative to other sounds, when it does not function in a privileged manner in this audiotext itself, but rather is mixed into the sonic din. Because Oana’s voice is separated by volume, pitch, and clarity from the other sounds in the Mic 1 and Mic 2 audiotexts, I use the “Oana’s voice” descriptor to indicate this. However, I maintain my focus on semiotic features of sound across all of my annotations in recognition of the skillful manner in which she manipulates her voice, imbuing it with semiotic meaning.
+Of course, the semiotic elements of a voiced performance are not predicated on authorial intent. What I’m suggesting here is, instead, that this audiotext is in many ways about the relationship between the symbolic and the semiotic; at what point does whispered offset become simply a whisper in itself, or when (if ever) does a repeated word lose its meaning? The Operator audiotexts interrogate the constructed boundaries between the semiotic and the semantic in complex, intermingling ways, which I can only begin to approach in my written annotations.</p>
