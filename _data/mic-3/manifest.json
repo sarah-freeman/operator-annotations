@@ -3,11 +3,19 @@
     "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/manifest.json",
     "type": "Manifest",
     "label": { "en": [ "Mic 3" ] },
+    "homepage": [
+      {
+        "id": "https://archive.org/details/mic-3-sample",
+        "type": "Text",
+        "label": { "en": [ "Mic 3" ] },
+        "format": "text/html"
+      }
+    ],
     "items": [
       {
         "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
         "type": "Canvas",
-        "duration": 390.918,
+        "duration": 394.918,
         "annotations": [
           
           {
@@ -28,8 +36,10 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "",
-                    "duration": 390.918
+                  "id": "https://ia600201.us.archive.org/33/items/mic-3-sample/Mic%203%20Sample.wav",
+                  "type": "Sound",
+                  "format": "audio/wav",
+                    "duration": 394.918
                 },
                 "target": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas"
               }
