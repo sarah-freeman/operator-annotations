@@ -14,7 +14,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Electronic tone with low pitch and low volume that vary in consistent intervals",
+        "value": "Electronic tone with variable low pitch and variable low-mid volume",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -200,7 +200,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Quiet, fluctuating high-pitched electronic tone drifts in and out of audibility",
+        "value": "Low volume, fluctuating high pitch electronic tone drifts in and out of audibility",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -324,7 +324,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Several low pitch voices, speaking quickly in short sentences and varying volumes, distorted and distinct as if speaking through radios. Some unintelligible language due to fast speech, low volume, and sound of backing track. ",
+        "value": "Several low pitch voices, speaking quickly in short sentences and varying volumes, distorted and distinct as if speaking through radios. Some unintelligible language due to fast speech, low volume, and intervening sounds.",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -386,7 +386,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Oana's voice speaking at a moderate speed, often with pauses between phrases and words. There is an audible echo.",
+        "value": "Oana's voice speaking at mid speed, often with pauses between phrases and words. There is an audible echo.",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -448,7 +448,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Sporadic mid-volume popping/crinkling sound in the foreground, like balling up a piece of paper",
+        "value": "Sporadic mid volume popping/crinkling sound, like balling up a piece of paper",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -479,7 +479,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Sporadic mid-volume rolling sound, like a pool ball rolling across a table",
+        "value": "Sporadic mid volume rolling sound, like a pool ball rolling across a table",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -510,7 +510,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Quiet breathy/blowing sound",
+        "value": "Low volume breathy/blowing sound",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -541,7 +541,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Loud tap, like two pool balls colliding",
+        "value": "High volume tap with hard onset and offset",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -603,7 +603,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Loud windy sound, like a jet taking off overhead",
+        "value": "High volume windy sound, like a jet taking off overhead",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -634,7 +634,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Quiet, consistant vibrating sound",
+        "value": "Low volume consistant vibrating sound",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -727,7 +727,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Quiet, high pitch pop with hard onset and soft offset",
+        "value": "Low volume, high pitch pop with hard onset and soft offset",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -851,7 +851,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Two low volume, mid-pitch pops with soft onset and offset",
+        "value": "Two low volume, mid pitch pops with soft onset and offset",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -882,7 +882,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Mid-volume, mid-pitch pop with hard onset and soft offset",
+        "value": "Mid volume, mid pitch pop with hard onset and soft offset",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -913,7 +913,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Acute mid pitch cracking sound with echo",
+        "value": "Sudden mid pitch cracking sound with echo",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -1130,7 +1130,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Consistant static tone across all pitches (but focused on low pitches), with soft onset and offset",
+        "value": "Consistant static tone across all pitches (but mostly low pitches), with soft onset and offset",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -1161,7 +1161,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Underlying bass tone fades out slowly",
+        "value": "Electronic tone fades out slowly",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -1192,7 +1192,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Single, loud, deep voice speaking quickly with hard onset and offset (in both words and individual syllables). Lack of typical speech modulation for sentence flow and word connotation [i.e. extremely consistant intonation and speed]. Semantic markers of multi-sided conversation (e.g. \"Right? Yeah.\"). Moderate echo.",
+        "value": "High volume, low pitch voice speaking quickly with hard onset and offset (in both words and individual syllables). Lack of typical speech modulation for sentence flow and word connotation [i.e. extremely consistant intonation and speed]. Semantic markers of multi-sided conversation (e.g. \"Right? Yeah.\"). Moderate echo.",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -1223,7 +1223,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Return to baseline electronic bass tone with low pitch and low volume that vary in consistent intervals",
+        "value": "Return to baseline electronic tone with low pitch and low volume that vary in consistent intervals",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -1254,7 +1254,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Mid to high volume, mid pitch pop with hard onset and offset and some echo",
+        "value": "Mid-high volume, mid pitch pop with hard onset and offset and some echo",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -1285,7 +1285,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Zip distortion sound [rapid steps up] with soft onset and offset ",
+        "value": "Zip distortion sound (rapid steps up) with soft onset and offset ",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -1719,7 +1719,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Oana's voice begins at mid volume and pitch, each of which decrease at a gradual and fluctuating rate. Initial repetition of \"end,\" and whispered onset and offset in second half",
+        "value": "Oana's voice begins at mid volume and pitch, each of which decrease at a gradual and fluctuating rate. Initial repetition of \"end,\" and very soft onset and offset in second half",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -1781,7 +1781,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Various friction sounds",
+        "value": "Various friction sounds at mid-low pitch and mid-low volume",
         "format": "text/plain",
         "purpose": "commenting"
       },
