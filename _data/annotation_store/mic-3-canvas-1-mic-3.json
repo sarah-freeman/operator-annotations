@@ -62,7 +62,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "0.0,188.45"
+          "t": "0.0,164.7"
         }
       }
     },
@@ -651,7 +651,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "81.71,86.0"
+          "t": "81.71,88.0"
         }
       }
     },
@@ -682,44 +682,13 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "86.63,86.66"
+          "t": "86.3,86.4"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "mic-3-canvas-1-mic-3-annotation-22.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Gravelley, sporadic vocalizations at mid pitch decreasing volume",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
-      "target": {
-        "source": {
-          "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
-          "type": "Canvas",
-          "partOf": [
-            {
-              "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/manifest.json",
-              "type": "Manifest"
-            }
-          ]
-        },
-        "selector": {
-          "type": "RangeSelector",
-          "t": "86.8,128.9"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-3-canvas-1-mic-3-annotation-23.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -750,69 +719,38 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-3-canvas-1-mic-3-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Intermittant crunching sound with low to mid pitch and varying volume",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "95.73,123.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "mic-3-canvas-1-mic-3-annotation-24.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Fluctuating static sound at low to mid volume and mid pitch",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
-      "target": {
-        "source": {
-          "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
-          "type": "Canvas",
-          "partOf": [
-            {
-              "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/manifest.json",
-              "type": "Manifest"
-            }
-          ]
-        },
-        "selector": {
-          "type": "RangeSelector",
-          "t": "92.45,189.2"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-3-canvas-1-mic-3-annotation-25.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Crunching sound with low to mid pitch and volume at varying intervals",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
-      "target": {
-        "source": {
-          "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
-          "type": "Canvas",
-          "partOf": [
-            {
-              "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/manifest.json",
-              "type": "Manifest"
-            }
-          ]
-        },
-        "selector": {
-          "type": "RangeSelector",
-          "t": "95.752,123.3"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-3-canvas-1-mic-3-annotation-26.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -843,7 +781,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-3-canvas-1-mic-3-annotation-27.json",
+      "id": "mic-3-canvas-1-mic-3-annotation-25.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -874,7 +812,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-3-canvas-1-mic-3-annotation-28.json",
+      "id": "mic-3-canvas-1-mic-3-annotation-26.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -905,7 +843,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-3-canvas-1-mic-3-annotation-29.json",
+      "id": "mic-3-canvas-1-mic-3-annotation-27.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -930,13 +868,13 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "130.0,135.0"
+          "t": "130.0,137.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-3-canvas-1-mic-3-annotation-30.json",
+      "id": "mic-3-canvas-1-mic-3-annotation-28.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -961,13 +899,13 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "131.0,131.81"
+          "t": "131.0,131.6"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-3-canvas-1-mic-3-annotation-31.json",
+      "id": "mic-3-canvas-1-mic-3-annotation-29.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -992,13 +930,13 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "131.8,138.9"
+          "t": "131.6,139.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-3-canvas-1-mic-3-annotation-32.json",
+      "id": "mic-3-canvas-1-mic-3-annotation-30.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1006,7 +944,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Mid pitch, mid volume buzzing sound increases in volume and pitch to reach a high point, then decreases until sound cuts off",
+        "value": "Mid pitch, high volume buzzing sound increases in volume and pitch to reach a high point, then decreases until sound cuts off",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -1023,13 +961,13 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "138.0,147.33"
+          "t": "137.7,147.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-3-canvas-1-mic-3-annotation-33.json",
+      "id": "mic-3-canvas-1-mic-3-annotation-31.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1037,7 +975,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Static tone at mid pitch and mid volume",
+        "value": "Static tone at mid pitch and low volume",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -1060,7 +998,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-3-canvas-1-mic-3-annotation-34.json",
+      "id": "mic-3-canvas-1-mic-3-annotation-32.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1068,7 +1006,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Electronic tone which varies around low-mid pitch and mid volume",
+        "value": "Mid pitch, mid volume buzzing/windy sound increases in volume and pitch to reach a high point, then decreases until inaudible",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -1085,13 +1023,13 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "151.0,164.7"
+          "t": "148.0,150.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-3-canvas-1-mic-3-annotation-35.json",
+      "id": "mic-3-canvas-1-mic-3-annotation-33.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1122,7 +1060,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-3-canvas-1-mic-3-annotation-36.json",
+      "id": "mic-3-canvas-1-mic-3-annotation-34.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1130,7 +1068,38 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Electronic tone increases to high volume, then decreases until inaudible",
+        "value": "High pitch, mid volume chirp",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "151.29,151.56"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-3-canvas-1-mic-3-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Low pitch, low volume electronic tone increases to high volume, then decreases until inaudible",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -1153,7 +1122,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-3-canvas-1-mic-3-annotation-37.json",
+      "id": "mic-3-canvas-1-mic-3-annotation-36.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1178,13 +1147,13 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "170.64,179.2"
+          "t": "160.3,186.3"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-3-canvas-1-mic-3-annotation-38.json",
+      "id": "mic-3-canvas-1-mic-3-annotation-37.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1215,7 +1184,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-3-canvas-1-mic-3-annotation-39.json",
+      "id": "mic-3-canvas-1-mic-3-annotation-38.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1246,7 +1215,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-3-canvas-1-mic-3-annotation-40.json",
+      "id": "mic-3-canvas-1-mic-3-annotation-39.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1277,7 +1246,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-3-canvas-1-mic-3-annotation-41.json",
+      "id": "mic-3-canvas-1-mic-3-annotation-40.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1308,7 +1277,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-3-canvas-1-mic-3-annotation-42.json",
+      "id": "mic-3-canvas-1-mic-3-annotation-41.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1339,7 +1308,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-3-canvas-1-mic-3-annotation-43.json",
+      "id": "mic-3-canvas-1-mic-3-annotation-42.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1370,7 +1339,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-3-canvas-1-mic-3-annotation-44.json",
+      "id": "mic-3-canvas-1-mic-3-annotation-43.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1401,7 +1370,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-3-canvas-1-mic-3-annotation-45.json",
+      "id": "mic-3-canvas-1-mic-3-annotation-44.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1432,7 +1401,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-3-canvas-1-mic-3-annotation-46.json",
+      "id": "mic-3-canvas-1-mic-3-annotation-45.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1463,7 +1432,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-3-canvas-1-mic-3-annotation-47.json",
+      "id": "mic-3-canvas-1-mic-3-annotation-46.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1494,7 +1463,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-3-canvas-1-mic-3-annotation-48.json",
+      "id": "mic-3-canvas-1-mic-3-annotation-47.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1525,7 +1494,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-3-canvas-1-mic-3-annotation-49.json",
+      "id": "mic-3-canvas-1-mic-3-annotation-48.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1556,7 +1525,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-3-canvas-1-mic-3-annotation-50.json",
+      "id": "mic-3-canvas-1-mic-3-annotation-49.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1587,7 +1556,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-3-canvas-1-mic-3-annotation-51.json",
+      "id": "mic-3-canvas-1-mic-3-annotation-50.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1618,7 +1587,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-3-canvas-1-mic-3-annotation-52.json",
+      "id": "mic-3-canvas-1-mic-3-annotation-51.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1649,7 +1618,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-3-canvas-1-mic-3-annotation-53.json",
+      "id": "mic-3-canvas-1-mic-3-annotation-52.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1680,7 +1649,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-3-canvas-1-mic-3-annotation-54.json",
+      "id": "mic-3-canvas-1-mic-3-annotation-53.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1711,7 +1680,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-3-canvas-1-mic-3-annotation-55.json",
+      "id": "mic-3-canvas-1-mic-3-annotation-54.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1742,7 +1711,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-3-canvas-1-mic-3-annotation-56.json",
+      "id": "mic-3-canvas-1-mic-3-annotation-55.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1773,7 +1742,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-3-canvas-1-mic-3-annotation-57.json",
+      "id": "mic-3-canvas-1-mic-3-annotation-56.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
