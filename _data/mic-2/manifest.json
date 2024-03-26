@@ -20,14 +20,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://sarah-freeman.github.io/operator-annotations/annotations/mic-2-canvas-1-friction-sounds.json",
-            "label": {
-              "none": ["Friction sounds"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://sarah-freeman.github.io/operator-annotations/annotations/mic-2-canvas-1-electronic-tones-and-distortions.json",
             "label": {
               "none": ["Electronic tones and distortions"]
