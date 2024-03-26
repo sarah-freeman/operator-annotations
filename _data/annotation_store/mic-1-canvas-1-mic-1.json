@@ -341,7 +341,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "48.0,55.0"
+          "t": "48.91,55.0"
         }
       }
     },
@@ -634,7 +634,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Low volume consistant vibrating sound",
+        "value": "Low volume consistent vibrating sound",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -1130,7 +1130,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Consistant static tone across all pitches (but mostly low pitches), with soft onset and offset",
+        "value": "Consistent static tone across all pitches (but mostly low pitches), with soft onset and offset",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -1192,7 +1192,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "High volume, low pitch voice speaking quickly with hard onset and offset (in both words and individual syllables). Lack of typical speech modulation for sentence flow and word connotation [i.e. extremely consistant intonation and speed]. Semantic markers of multi-sided conversation (e.g. \"Right? Yeah.\"). Moderate echo.",
+        "value": "High volume, low pitch voice speaking quickly with hard onset and offset (in both words and individual syllables). Lack of typical speech modulation for sentence flow and word connotation [i.e. extremely consistent intonation and speed]. Semantic markers of multi-sided conversation (e.g. \"Right? Yeah.\"). Moderate echo.",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -1595,7 +1595,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Mid volume, mid pitch pop with hard onset and offset",
+        "value": "Electronic tone crescendoes, then hard stop",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -1612,7 +1612,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "282.12,282.2"
+          "t": "280.9,283.16"
         }
       }
     },
@@ -1643,44 +1643,13 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "283.32,283.44"
+          "t": "282.12,282.2"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "mic-1-canvas-1-mic-1-annotation-53.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Electronic tone crescendoes, then hard stop",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
-      "target": {
-        "source": {
-          "id": "https://sarah-freeman.github.io/operator-annotations/mic-1/canvas-1/canvas",
-          "type": "Canvas",
-          "partOf": [
-            {
-              "id": "https://sarah-freeman.github.io/operator-annotations/mic-1/manifest.json",
-              "type": "Manifest"
-            }
-          ]
-        },
-        "selector": {
-          "type": "RangeSelector",
-          "t": "280.9,283.16"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-1-canvas-1-mic-1-annotation-54.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1706,6 +1675,37 @@
         "selector": {
           "type": "RangeSelector",
           "t": "283.16,293.7"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-1-canvas-1-mic-1-annotation-54.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Mid volume, mid pitch pop with hard onset and offset",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-1/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-1/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "283.32,283.44"
         }
       }
     },
@@ -2246,37 +2246,6 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Static concentrated in low pitches at mid-volume",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
-      "target": {
-        "source": {
-          "id": "https://sarah-freeman.github.io/operator-annotations/mic-1/canvas-1/canvas",
-          "type": "Canvas",
-          "partOf": [
-            {
-              "id": "https://sarah-freeman.github.io/operator-annotations/mic-1/manifest.json",
-              "type": "Manifest"
-            }
-          ]
-        },
-        "selector": {
-          "type": "RangeSelector",
-          "t": "391.6,394.918"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-1-canvas-1-mic-1-annotation-73.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": {
-        "type": "TextualBody",
         "value": "Various clicks/bumps in background at low volume and low-mid pitches",
         "format": "text/plain",
         "purpose": "commenting"
@@ -2295,6 +2264,37 @@
         "selector": {
           "type": "RangeSelector",
           "t": "390.6,394.918"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-1-canvas-1-mic-1-annotation-73.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Static concentrated in low pitches at mid-volume",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-1/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-1/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "391.6,394.918"
         }
       }
     },
