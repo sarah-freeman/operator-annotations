@@ -12,12 +12,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Resonant, low pitch and low volume static",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Resonant, low pitch and low volume static",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:00:00.000",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -43,12 +51,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Consistent low pitch, low volume electronic tone",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Consistent low pitch, low volume electronic tone",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:00:00.000",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -74,12 +90,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Variable, resonant electronic sound which loops from low pitch and mid volume to mid pitch and mid-high volume",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Variable, resonant electronic sound which loops from low pitch and mid volume to mid pitch and mid-high volume",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:00:02.9",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -105,12 +129,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Series of friction sounds (pops, cracks, gravelley sounds) in quick succession, at mid volume and mid-high pitch",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Series of friction sounds (pops, cracks, gravelley sounds) in quick succession, at mid volume and mid-high pitch",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:00:06.34",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -136,12 +168,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Three muffled, metallic taps at mid volume and low-mid pitch. Hard onset and medium offset.",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Three muffled, metallic taps at mid volume and low-mid pitch. Hard onset and medium offset.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:00:12.42",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -167,12 +207,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Fluctuating low-mid pitch electronic tone at mid volume",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Fluctuating low-mid pitch electronic tone at mid volume",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:00:15.2",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -198,12 +246,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Fluctuating static tone at mid-high pitch and low-mid volume",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Fluctuating static tone at mid-high pitch and low-mid volume",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:00:15.2",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -229,12 +285,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Vocalizations at low volume and mid pitch with soft onset and offset",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Vocalizations at low volume and mid pitch with soft onset and offset",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:00:21.07",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -260,12 +324,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Intermittant high pitch, mid volume beeps/cracks",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Intermittant high pitch, mid volume beeps/cracks",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:00:23.2",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -291,12 +363,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "High pitch, low volume tinny/squeaky intermittant sounds",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "High pitch, low volume tinny/squeaky intermittant sounds",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:00:26.7",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -322,12 +402,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Three muffled, resonant pops at low volume and high pitch with mid onset and offset",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Three muffled, resonant pops at low volume and high pitch with mid onset and offset",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:00:35.58",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -353,12 +441,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Windy sound at high volume and mid pitch, which tapers to high pitch and low volume until inaudible",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Windy sound at high volume and mid pitch, which tapers to high pitch and low volume until inaudible",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:00:36.89",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -384,12 +480,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Low pitch vocalizations with hard onset and mid-hard offset distorted by static, beginning at mid volume and decreasing to low volume",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Low pitch vocalizations with hard onset and mid-hard offset distorted by static, beginning at mid volume and decreasing to low volume",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:00:48.5",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -415,12 +519,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Mid pitch vocalizations at mid volume with hard onset and soft offset, decreasing in speed and volume",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Mid pitch vocalizations at mid volume with hard onset and soft offset, decreasing in speed and volume",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:00:55.90",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -446,12 +558,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Variable, resonant electronic sound which loops from low pitch and mid volume to mid pitch and mid-high volume",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Variable, resonant electronic sound which loops from low pitch and mid volume to mid pitch and mid-high volume",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:00:57.16",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -477,12 +597,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Mid pitch vocalizations at mid volume with mid-soft onset and soft offset, decreasing in speed and volume",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Mid pitch vocalizations at mid volume with mid-soft onset and soft offset, decreasing in speed and volume",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:01:02.3",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -508,12 +636,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Intermittant low volume, mid-low pitch friction sounds, like pool balls rolling on a wooden table",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Intermittant low volume, mid-low pitch friction sounds, like pool balls rolling on a wooden table",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:01:07.5",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -539,12 +675,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Fluctuating, windy-sounding static at mid volume and mid-high pitch",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Fluctuating, windy-sounding static at mid volume and mid-high pitch",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:01:12",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -570,12 +714,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Mid-low pitch vocalizations at mid-low volume with hard onset and soft offset",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Mid-low pitch vocalizations at mid-low volume with hard onset and soft offset",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:01:17.4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -601,12 +753,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Low pitch vocalizations at low volume with mid-soft onset and soft offset",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Low pitch vocalizations at low volume with mid-soft onset and soft offset",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:01:21.6",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -632,12 +792,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Intermittant clanking, brassy resonant sounds with soft onset and offset, at varying pitch",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Intermittant clanking, brassy resonant sounds with soft onset and offset, at varying pitch",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:01:21.71",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -663,12 +831,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "High volume, mid-high pitch hollow/pop sound across all pitches, with hard onset and offset. ",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "High volume, mid-high pitch hollow/pop sound across all pitches, with hard onset and offset. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:01:26.63",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -694,74 +870,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Mid pitch vocalizations at mid volume with mid-soft onset and soft offset, decreasing in speed and volume",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
-      "target": {
-        "source": {
-          "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
-          "type": "Canvas",
-          "partOf": [
-            {
-              "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/manifest.json",
-              "type": "Manifest"
-            }
-          ]
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Gravelley, sporadic vocalizations at mid pitch decreasing volume",
+          "format": "text/plain",
+          "purpose": "commenting"
         },
-        "selector": {
-          "type": "RangeSelector",
-          "t": "87.37,95.2"
+        {
+          "type": "TextualBody",
+          "value": "0:01:26.80",
+          "format": "text/plain",
+          "purpose": "tagging"
         }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-3-canvas-1-mic-3-annotation-23.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Fluctuating static sound at low to mid volume and mid pitch",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
-      "target": {
-        "source": {
-          "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
-          "type": "Canvas",
-          "partOf": [
-            {
-              "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/manifest.json",
-              "type": "Manifest"
-            }
-          ]
-        },
-        "selector": {
-          "type": "RangeSelector",
-          "t": "92.45,189.2"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-3-canvas-1-mic-3-annotation-24.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Gravelley, sporadic vocalizations at mid pitch decreasing volume",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -781,18 +903,104 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-3-canvas-1-mic-3-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Mid pitch vocalizations at mid volume with mid-soft onset and soft offset, decreasing in speed and volume",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:01:27.37",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "87.37,95.2"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-3-canvas-1-mic-3-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Fluctuating static sound at low to mid volume and mid pitch",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:01:32.45",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "92.45,189.2"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "mic-3-canvas-1-mic-3-annotation-25.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Crunching sound with low to mid pitch and volume at varying intervals",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Crunching sound with low to mid pitch and volume at varying intervals",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:01:35.752",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -818,12 +1026,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Muffled scratchy sound cratch sound with varying pitch and low-mid volume",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Muffled scratchy sound cratch sound with varying pitch and low-mid volume",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:01:40.65",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -849,12 +1065,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Low pitch vocalizations at mid volume with hard onset and soft offset, with softening onset and decreasing pitch, speed, and volume",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Low pitch vocalizations at mid volume with hard onset and soft offset, with softening onset and decreasing pitch, speed, and volume",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:01:41.2",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -880,12 +1104,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Mid-low pitch vocalizations at varying mid-low volume with varying mid-hard onset and soft offset, with decreasing speed and volume",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Mid-low pitch vocalizations at varying mid-low volume with varying mid-hard onset and soft offset, with decreasing speed and volume",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:01:53.61",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -911,12 +1143,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Metallic, electronic tone at mid pitch and high volume",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Metallic, electronic tone at mid pitch and high volume",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:02:10.00",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -942,12 +1182,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Two mid volume, mid pitch pops with hard onset and offset",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Two mid volume, mid pitch pops with hard onset and offset",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:02:11:7",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -973,12 +1221,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Mid pitch windy sound begins at high volume; volume decreases until sound is inaudible",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Mid pitch windy sound begins at high volume; volume decreases until sound is inaudible",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:02:11.8",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -1004,12 +1260,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Mid pitch, mid volume buzzing sound increases in volume and pitch to reach a high point, then decreases until sound cuts off",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Mid pitch, mid volume buzzing sound increases in volume and pitch to reach a high point, then decreases until sound cuts off",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:02:18.0",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -1035,12 +1299,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Static tone at mid pitch and mid volume",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Static tone at mid pitch and mid volume",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:02:27.4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -1066,12 +1338,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Electronic tone which varies around low-mid pitch and mid volume",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Electronic tone which varies around low-mid pitch and mid volume",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:02:31.0",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -1097,12 +1377,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Intermittant, mid pitch vocalizations initially at mid volume, with hard onset and soft offset, which changes to low volume with soft onset and offset",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Intermittant, mid pitch vocalizations initially at mid volume, with hard onset and soft offset, which changes to low volume with soft onset and offset",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:02:32.71",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -1128,12 +1416,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Electronic tone increases to high volume, then decreases until inaudible",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Electronic tone increases to high volume, then decreases until inaudible",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:02:44.7",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -1159,12 +1455,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Mid pitch, mid volume fluctuating static tone, with various low volume mid pitch cracking sounds at inconsistent intervals",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Mid pitch, mid volume fluctuating static tone, with various low volume mid pitch cracking sounds at inconsistent intervals",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:02:50.64",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -1190,12 +1494,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Low pitch vocalizations with short pauses and hard onset and offset, accompanied by fuzziness/static",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Low pitch vocalizations with short pauses and hard onset and offset, accompanied by fuzziness/static",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:03:12.50",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -1221,12 +1533,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Electronic tone which varies around low-mid pitch and mid volume",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Electronic tone which varies around low-mid pitch and mid volume",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:03:44.68",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -1252,12 +1572,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Various mid pitch, mid volume cracks/pops",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Various mid pitch, mid volume cracks/pops",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:03:44.68",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -1283,12 +1611,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Consistent low pitch, low volume electronic tone",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Consistent low pitch, low volume electronic tone",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:03:44.68",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -1314,12 +1650,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Vocalizations at at mid pitch and mid volume, with generally hard onset and variable speed",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Vocalizations at at mid pitch and mid volume, with generally hard onset and variable speed",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:03:57.321",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -1345,12 +1689,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Resonant brassy/metallic tone at mid pitch and mid volume ",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Resonant brassy/metallic tone at mid pitch and mid volume ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:04:09.47",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -1376,12 +1728,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Series of mid pitch, low volume cracks with hard onset and soft offset",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Series of mid pitch, low volume cracks with hard onset and soft offset",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:04:17.7",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -1407,12 +1767,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Muffled, mid pitch, low volume scratching sound on inconsistent intervals",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Muffled, mid pitch, low volume scratching sound on inconsistent intervals",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:04:19.7",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -1438,12 +1806,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "High volume, mid pitch hollow sounding pop with hard onset and offset. ",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "High volume, mid pitch hollow sounding pop with hard onset and offset. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:04:23.21",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -1469,43 +1845,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Mid-high pitch metallic tone which increases to a peak and then decreases until inaudible",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
-      "target": {
-        "source": {
-          "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
-          "type": "Canvas",
-          "partOf": [
-            {
-              "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/manifest.json",
-              "type": "Manifest"
-            }
-          ]
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Consistent low pitch, low volume electronic tone",
+          "format": "text/plain",
+          "purpose": "commenting"
         },
-        "selector": {
-          "type": "RangeSelector",
-          "t": "283.05,293.82"
+        {
+          "type": "TextualBody",
+          "value": "0:04.42.784",
+          "format": "text/plain",
+          "purpose": "tagging"
         }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-3-canvas-1-mic-3-annotation-48.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Consistent low pitch, low volume electronic tone",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -1525,18 +1878,65 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-3-canvas-1-mic-3-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Mid-high pitch metallic tone which increases to a peak and then decreases until inaudible",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:04:43.05",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "283.05,293.82"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "mic-3-canvas-1-mic-3-annotation-49.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Variable, resonant electronic sound which loops from low pitch and mid volume to mid pitch and mid-high volume",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Variable, resonant electronic sound which loops from low pitch and mid volume to mid pitch and mid-high volume",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:04:51.5",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -1562,12 +1962,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Mid pitch, mid volume vocalizations which slow and decrease over this interval",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Mid pitch, mid volume vocalizations which slow and decrease over this interval",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:04:52.11",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -1593,12 +2001,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Various gravelley friction sounds at inconsistent intervals",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Various gravelley friction sounds at inconsistent intervals",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:04:57.30",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -1624,12 +2040,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Mid to low pitch vocalizations at various intervals, which get longer through this time period\\",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Mid to low pitch vocalizations at various intervals, which get longer through this time period",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:05:11.09",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -1655,12 +2079,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Muffled, resonant metallic tones at various intervals. Various mid pitches and low volume. ",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Muffled, resonant metallic tones at various intervals. Various mid pitches and low volume. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:05:27",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -1686,12 +2118,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Consistent low pitch, low volume electronic tone",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Consistent low pitch, low volume electronic tone",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:05:41.3",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -1717,12 +2157,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Quick vocalizations at mid volume with hard onset and soft offset",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Quick vocalizations at mid volume with hard onset and soft offset",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:05:50.02",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -1748,12 +2196,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Static, fluctuating at mid pitch ahd mid-high volume",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Static, fluctuating at mid pitch and mid-high volume",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:05:59.08",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
@@ -1779,12 +2235,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Crunching, gravelley sound with hig  pitch and mid volume",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Crunching, gravelley sound with high pitch and mid volume",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0:05:59.1",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/operator-annotations/mic-3/canvas-1/canvas",
