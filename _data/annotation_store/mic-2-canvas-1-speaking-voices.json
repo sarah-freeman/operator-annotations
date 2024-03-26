@@ -14,6 +14,99 @@
       ],
       "body": {
         "type": "TextualBody",
+        "value": "Low pitch, mid volume constant electronic bass sound with mid pitch, low volume wavering static tone",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.0,10.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Polyphonic electronic sound which loops on a ~4 second interval from low pitch and low volume to combined low and mid pitch and mid volume. Periodic pop with hard onset and offset, mid pitch and mid volume at the beginning of each loop.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3.25,130.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Low pitch, mid volume constant electronic bass sound continues. Wavering static sound has more pronounced fluctuations at mid volume and generally mid pitch.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "10.1,87.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
         "value": "Oana's voice, smooth and clear, with aspirant onset and offset, mid volume and mid pitch. Pauses within phrases and between them. Emphasis on \"the subject\" and \"brute future,\" which are louder than the surrounding words and uttered with more defined onest. ",
         "format": "text/plain",
         "purpose": "commenting"
@@ -37,7 +130,38 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-2-canvas-1-speaking-voices-annotation-1.json",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "High volume, harsh windy sound which begins across all pitches, then decreases volume and increases pitch gradually until inaudible",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "37.23,48.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-5.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -68,7 +192,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-2-canvas-1-speaking-voices-annotation-2.json",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-6.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -76,7 +200,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Oana's voice. Repetition of \"the subject...,\" followed by description. Phrases tend to begin with hard onset, mid volume, and clear definition of words, and progress to lower volume and less-defined words, with longer pauses between words.",
+        "value": "Oana's voice. Repetition of \"the subject...,\" followed by description. Phrases tend to begin with hard onset, mid volume, and clear definition of words, and progress to lower volume and less defined words, with longer pauses between words.",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -99,7 +223,162 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-2-canvas-1-speaking-voices-annotation-3.json",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Muffled mid pitch clicking sound, like ball bearings colliding. Accompanied by low pitch, windy sound. Becomes audible just as Oana says the words \"laboured hand\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "65.1,73.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Clicking sound no longer audible. Windy sound increases in volume and variability.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "73.0,88.1"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Series of acute, generally low volume, metallic sounds that resonate. These occur on an inconsistent interval with inconsistent pitch.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "80.7,86.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "High volume, mid-high volume hollow sounding pop across all pitches, but concentrated in the low to mid range. Hard onset and offset. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "86.628,86.669"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Low pitch, mid volume constant electronic bass sound continues. Wavering static sound has highly variable fluctuations at mid to high volume and high pitch.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "87.0,92.45"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-12.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -130,7 +409,255 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-2-canvas-1-speaking-voices-annotation-4.json",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Low pitch, mid volume constant electronic bass sound continues. Wavering static sound fluctuates around low to mid volume and generally mid pitch.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "92.46,189.21"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gravelley, crunching sound beginning with a period of ~0.5 second. Low to mid pitch and volume. Period becomes longer and volume decreases through this interval.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "95.78,123.32"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Clear scratch sound with varying pitch and generally low volume. Something like a wooden stick tracing across a wooden table.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "100.66,122.04"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Polyphonic electronic tone crescendoes to high volume",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "130.01,131.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Two fast pops, followed by a high volume, windy sound across all pitches. Volume decreases until sound is inaudible. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "131.0,138.9"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Mid pitch, mid volume consistent electronic buzzing sound. Accompanied by low pitch buzzing sound which begins at low volume and increases in pitch and volume until a consistent, multitonal electronic sound is audiblee across all pitches. Then, volume decreases slightly until sound cuts off.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "138.02,147.36"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Distorted, static tone, followed by mid pitch, mid volume electronic tone which increases and then decreases. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "147.37,151.8"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Polyphonic electronic sound which loops on a ~4 second interval from low pitch and low volume to combined low and mid pitch and mid volume. Periodic pop with hard onset and offset, mid pitch and mid volume at the beginning of each loop.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "150.97,164.71"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-21.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -161,7 +688,38 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-2-canvas-1-speaking-voices-annotation-5.json",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Polyphonic, periodic electronic tone increases to high volume, then tapers off",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "164.72,195.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-23.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -192,7 +750,69 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-2-canvas-1-speaking-voices-annotation-6.json",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Polyphonic electronic sound which loops on a ~4 second interval from mid-low pitch, mid volume, and prominent static to low pitch and low volume. Periodic pop with hard onset and offset, mid pitch and mid volume at the end of each loop.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "224.99,249.45"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Low pitch, mid volume constant electronic bass sound",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "224.99,282.134"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-26.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -223,7 +843,255 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-2-canvas-1-speaking-voices-annotation-7.json",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Polyphonic electronic sound continues to loop on a ~4 second interval, with added resonant brassy tone at the beginning of each loop.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "249.46,257.7"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Polyphonic electronic sound continues to loop on a ~4 second interval, without resonant brassy tone. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "257.71,282.59"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Muffled, low-mid pitch, low volume scratchy sound which fluctuates on inconsistent intervals",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "259.58,276.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "High volume, mid-high volume hollow sounding pop across all pitches, but concentrated in the low to mid range. Hard onset and offset. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "263.22,263.27"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Silent, except for a very low volume resonant sound",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "282.59,283.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Low pitch static sound, accompanied by mid-high pitch tone which crescendoes, spreading across all pitches and increasing in volume. The tone has a brassy, resonant character. Then, decreases in volume until inaudible.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "283.07,293.8"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Low pitch, mid volume constant electronic bass sound",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "4.43,291.5"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Polyphonic electronic sound which loops on a ~4 second interval from low pitch and low volume to combined low and mid pitch and mid volume. Periodic pop with hard onset and offset, mid pitch and mid volume at the beginning of each loop.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "291.51,390.9"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-35.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -254,7 +1122,38 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-2-canvas-1-speaking-voices-annotation-8.json",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Various friction sounds at varying intervals. Increase in pitch and decrease in coarseness of the tones.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "297.29,306.21"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-37.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -285,7 +1184,38 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "mic-2-canvas-1-speaking-voices-annotation-9.json",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Muffled acute brassy sounds which occur at various intervals and resonate. Various mid pitches and low volume. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "327.0,350.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-39.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -311,6 +1241,99 @@
         "selector": {
           "type": "RangeSelector",
           "t": "350.0,390.1"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Distorted, fluctuating mid pitch, mid volume static tone",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "359.08,378.29"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Crunching sound at high-mid pitch and low-mid volume",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "358.7,367.7"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mic-2-canvas-1-speaking-voices-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Silence",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sarah-freeman.github.io/operator-annotations/mic-2/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "391.0,390.918"
         }
       }
     }
