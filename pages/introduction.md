@@ -128,9 +128,9 @@ In this section, I discuss how my timestamps of highly-variable length, and my r
     <th>Annotation</th>
   </tr>
   <tr>
-    <td>0:02:50.64</td>
-    <td>0:032:59.2</td> 
-    <td>Mid pitch, mid volume fluctuating static tone, with various low volume mid pitch cracking sounds at inconsistent intervals</td>
+    <td>0:00:06.34</td>
+    <td>0:00:07.74</td> 
+    <td>Series of friction sounds (pops, cracks, gravelley sounds) in quick succession, at mid volume and mid-high pitch</td>
   </tr>
 </table>
 
